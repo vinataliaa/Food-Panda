@@ -1,0 +1,6 @@
+{
+  "name": "foodpanda — BreadTalk (Marina Bay Link Mall)",
+  "description": "Order freshly baked BreadTalk signature floss buns, shio pan, steam cakes, and artisan loaves from Marina Bay Link Mall for fast delivery or pick-up.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
